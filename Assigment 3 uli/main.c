@@ -38,5 +38,5 @@ char* determineWinner(const char player1[], const char player2[]) {
 int main(void) {
 
 
-    return 0;
+    return     0;
 }
